@@ -1,4 +1,4 @@
-#image observations
+# image observations
 ## 'The Trust Giant's Point of View'
 - it shows rockefeller holding the white house in his house
 - there are lots of oil barrels on the floor
