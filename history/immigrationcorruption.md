@@ -1,5 +1,5 @@
 # Lesson 2
-## Rapid growth of citiws forced people to deal with problems of housing, transportation, water and sanitation
+## Rapid growth of cities forced people to deal with problems of housing, transportation, water and sanitation
 ## In comparison, people now have better living conditions
 
 ### A combination of technological advancements and hard times in europe made Urbanization possible
@@ -43,6 +43,4 @@
 - When the loyalty of voters was not enough to carry an election, some political machines turned to fraud.
 - Party members used fake names to get as many votes as possible. 
 - Once a political machine got its candidates into office, it could take advantage of numerous opportunities for graft
-- graft means using political gain for personal use.
-
-
+- **graft - political gain for personal use.**
