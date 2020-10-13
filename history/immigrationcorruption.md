@@ -1,26 +1,30 @@
 # Lesson 2
 ## Rapid growth of citiws forced people to deal with problems of housing, transportation, water and sanitation
 ## In comparison, people now have better living conditions
+
+### A combination of technological advancements and hard times in europe made Urbanization possible
 - Making a living in the late 19th and 20th centuries was not easy
 - There were natural and economic disasters in Europe
 - This caused alot of people to come to the US, very fast
 - from 1870 to 1920, population went from 10 mill to 54 mill
-- This made spaces overcrowded and resources scarce
-
 - The rapid growth of technology, also helped with the rapid urbanization
 - **Urbanization - growth of cities**
+- Urbanization made spaces overcrowded and resources scarce
 
-- The Americanization movement was designed to assimilate people of wide-ranging cultures into the dominant culture. 
-- This helped immigrants get comfortable with AMerican culture.
-
+### There were lots of problems with rapid Urbanization
 - Housing was a big problem
 - People were forced to cram into crappy apartments called tenements
-- Jacob Riis a **Muckraker - investigative journalist** helped point this out
-
+- Jacob Riis a Muckraker helped point this out
+- **Muckraker - investigative journalist**
 - Cities also had to supply saf drinking water for people
 - A lot of people had no piped water
 - They had to collect water in pails
 - CHlorination was introsduced, but the majority of people didn't have clean water
+
+### The americanization movement was made to help immigrants from other countries learn the american way of life
+- The Americanization movement was designed to assimilate people of wide-ranging cultures into the dominant culture. 
+- This helped immigrants get comfortable with American culture.
+- A big example of this is Ford motor teaching its employees english for free
 
 # Lesson 3
 ## Local and national political corruption in the 19th century led to calls for reform.
