@@ -19,7 +19,7 @@
 - Cities also had to supply saf drinking water for people
 - A lot of people had no piped water
 - They had to collect water in pails
-- CHlorination was introsduced, but the majority of people didn't have clean water
+- Chlorination was introsduced, but the majority of people didn't have clean water
 
 ### The americanization movement was made to help immigrants from other countries learn the american way of life
 - The Americanization movement was designed to assimilate people of wide-ranging cultures into the dominant culture. 
