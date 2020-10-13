@@ -31,7 +31,7 @@
 ## Political reforms paved the way for a more honest and efficient government in the 20th century and beyond.
 
 - In the late 19th century, cities experienced rapid growth under inefficient government. In a climate influenced by dog-eat-dog 
-**Social Darwinism - which means that only the strongest survive**
+- **Social Darwinism - which means that only the strongest survive**
 
 ### Political Machines
 - **Political Machines - groups that controlled the activities of political parties**
