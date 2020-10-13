@@ -30,16 +30,18 @@
 ## Local and national political corruption in the 19th century led to calls for reform.
 ## Political reforms paved the way for a more honest and efficient government in the 20th century and beyond.
 
-- In the late 19th century, cities experienced rapid growth under inefficient government. In a climate influenced by dog-eat-dog **Social Darwinism - which means that only the strongest survive**
+- In the late 19th century, cities experienced rapid growth under inefficient government. In a climate influenced by dog-eat-dog 
+**Social Darwinism - which means that only the strongest survive**
 
-- Political Machines were groups that controlled the activities of political parties
-
+### Political Machines
+- **Political Machines - groups that controlled the activities of political parties**
 - The machine was organized like a pyramid. 
 - At the pyramid’s base were local precinct workers and captains who reported to a ward boss. 
 - They tried to get voters’ support on a city block or in a neighborhood. 
 - At election time, the ward boss worked to secure the vote in all the precincts in the ward, or electoral district. 
 - Ward bosses helped the poor and gained their votes by doing favors or providing services.
 
+### Abuse of the system
 - When the loyalty of voters was not enough to carry an election, some political machines turned to fraud.
 - Party members used fake names to get as many votes as possible. 
 - Once a political machine got its candidates into office, it could take advantage of numerous opportunities for graft
