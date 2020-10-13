@@ -1,6 +1,7 @@
 # Lesson 2
 ## Rapid growth of citiws forced people to deal with problems of housing, transportation, water and sanitation
 ## In comparison, people now have better living conditions
+### 
 - Making a living in the late 19th and 20th centuries was not easy
 - There were natural and economic disasters in Europe
 - This caused alot of people to come to the US, very fast
@@ -10,23 +11,27 @@
 - The rapid growth of technology, also helped with the rapid urbanization
 - **Urbanization - growth of cities**
 
+### Americanization helped immigrants get comfortbale in the United States
 - The Americanization movement was designed to assimilate people of wide-ranging cultures into the dominant culture. 
-- This helped immigrants get comfortable with AMerican culture.
+- This helped immigrants get comfortable with American culture.
+- One predominant example of the Americanization movement, is Ford Motor helping their employees learn english
 
+### There were many problems with rapid Urbanization
 - Housing was a big problem
 - People were forced to cram into crappy apartments called tenements
-- Jacob Riis a **Muckraker - investigative journalist** helped point this out
-
-- Cities also had to supply saf drinking water for people
+- Jacob Riis a Muckraker helped point this out
+**Muckraker - investigative journalist**
+- Cities also had to supply safe drinking water for people
 - A lot of people had no piped water
 - They had to collect water in pails
-- CHlorination was introsduced, but the majority of people didn't have clean water
+- Chlorination was introsduced, but the majority of people didn't have clean water
 
 # Lesson 3
 ## Local and national political corruption in the 19th century led to calls for reform.
 ## Political reforms paved the way for a more honest and efficient government in the 20th century and beyond.
 
-- In the late 19th century, cities experienced rapid growth under inefficient government. In a climate influenced by dog-eat-dog **Social Darwinism - which means that only the strongest survive**
+- In the late 19th century, cities experienced rapid growth under inefficient government. In a climate influenced by dog-eat-dog 
+**Social Darwinism - which means that only the strongest survive**
 
 - Political Machines were groups that controlled the activities of political parties
 
