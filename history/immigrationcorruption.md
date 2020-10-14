@@ -99,3 +99,22 @@
 - Another was chemical preservatives, such as borax. 
 - These chemicals did extend the freshness of food, but many were harmful to human health. 
 - By 1906 the government would enact regulations to ensure the safety of the U.S. food supply.
+### A Revolution in Printing
+- American mills began to produce huge quantities of cheap paper from wood pulp.
+- The new paper proved durable enough to withstand high-speed presses.
+- Faster production and lower costs made newspapers and magazines more affordable. 
+### Airplanes
+- In the early 20th century,Orville and Wilbur Wright, experimented with new engines powerful enough to keep “heavier-than-air” craft aloft.
+- Within two years, the Wright brothers had increased their flights to 24 miles. 
+- By 1920, convinced of the great potential of flight, the U.S. government had established the first transcontinental airmail service.
+### Photography Explosion
+- Before the 1880s, photography was a professional activity. 
+- Because of the time required to take a picture and the weight of the equipment, a photographer could not shoot a moving object.
+- George Eastman developed a series of more convenient alternatives to the heavy glass plates previously used. 
+- Now, instead of carrying their darkrooms around with them, photographers could use flexible film, coated with gelatin emulsions, and could send their film to a studio for processing. 
+- When professional photographers were slow to begin using the new film, Eastman decided to aim his product at the masses.
+- Kodak
+  - In 1888 Eastman introduced his Kodak camera. 
+  - The purchase price of $25 included a 100-picture roll of film. 
+  - After taking the pictures, the photographer would send the camera back to Eastman’s Rochester factory. 
+  - For $10, the pictures were developed and returned with the camera reloaded. 
