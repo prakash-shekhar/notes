@@ -59,4 +59,43 @@
   - The invention of elevators
 - People ran out of space to expand horizontally
 - Instead of spreading out, they began to build up.
-### 
+- The skyscraper became America's greatest contribution to architecture
+### Electric Transit
+- As skyscrapers expanded upward, changes in transportation allowed cities to spread outward.
+- In 1888 Richmond, Virginia, became the first American city to electrify its urban transit.
+- New railroad lines also fed the growth of suburbs, allowing residents to commute to downtown jobs.
+- New York’s northern suburbs alone moved 100,000 commuters each day to the central business district.
+- A few large cities moved their streetcars far above street level, creating elevated or “el” trains. 
+- Other cities, like New York, did the exact opposite, and built subways by moving their rail lines underground. 
+### Engineering and Urban Planning
+- Steel-cable suspension bridges, like the Brooklyn Bridge, also brought cities’ sections closer together. 
+- City planners tried to restore serenity to the environment by designing recreational areas.
+- Landscape architect Frederick Law Olmsted led the movement for planned urban parks.
+- Central Park
+  - In 1857 Olmsted, along with English-born architect Calvert Vaux, helped draw up a plan for “Greensward.”
+  - This eventually became central park, in New York
+  - Olmsted envisioned the park as a rustic haven in the center of the busy city. 
+- In the 1870s Olmsted planned landscaping for Washington, DC, and St. Louis.
+- He also drew the initial designs for “the Emerald Necklace,” Boston’s parks system.
+### City Planning
+- By contrast, Chicago, with its explosive growth from 30,000 people in 1850 to 300,000 in 1870, represented uncontrolled expansion. 
+- Fortunately for the city, a local architect, Daniel Burnham, was intrigued by the prospect of remaking the city. 
+- His motto was “Make no little plans. They have no magic to stir men’s blood.” 
+### Feeding Cities
+- To feed their populations, large cities needed a reliable food supply.
+- New technologies and ideas allowed farmers to produce more crops on the same amount of land with fewer workers.
+- The ideas of George Washington Carver helped revolutionize farming in the South.
+  - Carver promoted the idea of crop rotation.
+  - **Crop rotation - a method for restoring nitrogen, an important nutrient for growing crops, to the soil**
+  - Carver even developed and promoted ways to use crops that restored soil nutrients, such as peanuts. 
+  - By promoting new uses for these crops, Carver provided farmers with new markets.
+- Another important breakthrough in agriculture occurred in 1905.
+  - Chemist Fritz Haber discovered a way to extract nitrogen from the air.
+  - This discovery led to the Haber-Bosch process, which made it possible to create chemical fertilizers.
+  - With chemical fertilizers, farmers could provide nutrients directly to crops. 
+  -  By 1909 farmers were using more than 3 million tons of chemical fertilizer a year.
+- Even though farmers could produce plenty of food for the growing population, they still needed a way to get their products to market before they spoiled.
+- One solution was refrigerated railroad cars. 
+- Another was chemical preservatives, such as borax. 
+- These chemicals did extend the freshness of food, but many were harmful to human health. 
+- By 1906 the government would enact regulations to ensure the safety of the U.S. food supply.
