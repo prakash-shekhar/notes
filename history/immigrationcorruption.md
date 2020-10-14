@@ -29,7 +29,7 @@
 # Lesson 3
 ## Local and national political corruption in the 19th century led to calls for reform.
 ## Political reforms paved the way for a more honest and efficient government in the 20th century and beyond.
-
+### Social Darwinism
 - In the late 19th century, cities experienced rapid growth under inefficient government. In a climate influenced by dog-eat-dog 
 - **Social Darwinism - which means that only the strongest survive**
 
@@ -46,3 +46,11 @@
 - Party members used fake names to get as many votes as possible. 
 - Once a political machine got its candidates into office, it could take advantage of numerous opportunities for graft
 - **graft - political gain for personal use.**
+
+# Lesson 4
+## Advances in science and technology helped solve urban problems, including overcrowding.
+## American cities continue to depend on the results of scientific and technological research.
+
+### Skyscrapers
+- Architects could make larger buildings because:
+- - The development of internal steel skeletons to bear the weight.
