@@ -52,6 +52,11 @@
 ## American cities continue to depend on the results of scientific and technological research.
 
 ### Skyscrapers
+- In 1890–1891, Louis Sullivan made the ten-story Wainwright Building in St. Louis. 
+- He called the new breed of skyscraper a “proud and soaring thing.” 
 - Architects could make larger buildings because:
   - The development of internal steel skeletons to bear the weight.
   - The invention of elevators
+- People ran out of space to expand horizontally
+- Instead of spreading out, they began to build up.
+### 
