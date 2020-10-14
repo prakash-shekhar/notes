@@ -53,4 +53,5 @@
 
 ### Skyscrapers
 - Architects could make larger buildings because:
-- - The development of internal steel skeletons to bear the weight.
+  - The development of internal steel skeletons to bear the weight.
+  - The invention of elevators
