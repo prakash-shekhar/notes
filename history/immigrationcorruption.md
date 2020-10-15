@@ -142,3 +142,13 @@
 - In 1869 a professional team named the Cincinnati Red Stockings toured the country. 
 - This led to the formation of the National League in 1876 and the American League in 1900.
 - African American baseball players were excluded from both leagues because of racial discrimination.
+### Fine Arts
+### Philosophy
+### Performing Arts
+### Fiction
+### Newspapers
+### Urban Shopping
+### Department Store
+### Chain Store
+### Advertising
+### Catalogs
