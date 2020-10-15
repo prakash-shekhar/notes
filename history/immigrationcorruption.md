@@ -118,3 +118,27 @@
   - The purchase price of $25 included a 100-picture roll of film. 
   - After taking the pictures, the photographer would send the camera back to Eastman’s Rochester factory. 
   - For $10, the pictures were developed and returned with the camera reloaded. 
+
+# Lesson 5
+## As Americans had more time for leisure activities, a modern mass culture emerged.
+## Today the United States has a worldwide impact on mass culture.
+- As the 19th century drew to a close, many Americans could forget city congestion and dull industrial work with leisure time.
+### Amusement Parks
+- Cities worked to meet the recreational needs of their residents.
+- Many built amusement parks for their citizens
+- Some amusement parks were constructed on the outskirts of cities. 
+- Often trolley-car companies built them to attract more passengers.
+- The roller coaster drew adventurous customers to Coney Island in 1884.
+### Bicycling
+- Bicycling was initially very hard to do because of the way the wheels were
+- However, in 1885 the first commercially successful “safety bicycle” was built.
+- This made a sudden boom in bicycling
+- Susan B. Anthony declared, “I think bicycling has done more to emancipate women than anything else in the world. . . . It gives women a feeling of freedom and self-reliance.” 
+### Tennis
+- The modern version of this sport originated in North Wales in 1873. 
+- A year later, the US, saw its first tennis match
+### Baseball
+- New rules changed baseball into a professional sport. 
+- In 1869 a professional team named the Cincinnati Red Stockings toured the country. 
+- This led to the formation of the National League in 1876 and the American League in 1900.
+- African American baseball players were excluded from both leagues because of racial discrimination.
