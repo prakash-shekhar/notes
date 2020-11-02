@@ -74,7 +74,15 @@
     - N + 3e-  🡺 N3-
   - Element
     - Neutral
-### Atomic Mass
+![ion](https://www.qrg.northwestern.edu/projects/vss/docs/media/Propulsion/ions.gif)
+### Average Atomic Mass
+- weighted average of all isotopes
+- appears on the Periodic Table under the Element symbol
+- round to 2 decimal places
+- equation
+  - (mass of isotope 1 * abundance of isotope 1)+(mass of isotope n * abundance of isotope n)
+- Ex: Find chlorine’s average atomic mass if approximately 8 of every 10 atoms are chlorine-35 and 2 are chlorine-37.
+- (35x0.8)+(37x0.2)=35.40amu
 
 ## [Periodic Table](https://ptable.com/)
 
