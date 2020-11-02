@@ -36,6 +36,21 @@
 - This helped to explain why atoms were heavier than the total mass of their protons and electrons
 
 ## Atomic Structure
+### Location
+- Nucleus
+  - Proton = positive
+  - Neutron = 0
+- Outer
+  - Electron = negative
+### Atomic Number
+- The atomic number of an element is the number of protons in the nucleus of an atom of that element
+- The atomic number is also equal to the number of electrons in a neutral atom.
+### Mass number
+- mass # = # protons + # neutrons
+- Always whole number
+- not on the periodic table
+
+![diagram](https://cdn.britannica.com/97/22297-050-0B262E16/Lawrencium.jpg)
 
 ## Isotopes and average mass
 
