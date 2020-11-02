@@ -102,7 +102,6 @@
 - Left spaces based in patterns for future discoveries
 - Resolved discrepancies in Mendeleev’s arrangement.
 ### Parts of periodic table
-![parts of periodic table](https://sites.google.com/a/mesquiteisd.org/7th-grade-science-6th-6-weeks/_/rsrc/1468889930879/metals-non-metals-metalloids/tablenames.rev99.jpg)
 - Metals
   - Ductile (can be stretched)
   - Malleable (can be shaped & molded)
@@ -153,9 +152,25 @@
 - Group 18- Noble Gases
   - 8 electrons in the outer level (except Helium, which has 2)
   - Unreactive nonmetals
-
+![parts of periodic table](https://sites.google.com/a/mesquiteisd.org/7th-grade-science-6th-6-weeks/_/rsrc/1468889930879/metals-non-metals-metalloids/tablenames.rev99.jpg)
 ## Periodic Trends
 ### Atomic size(radius)
+- Atoms get larger as you go down a group
+  - More energy levels results in larger size
+- Atoms get bigger as you go across a period from right to left
+  - More electrons in the same energy level results in a greater pull toward the center
 ### Electronegativity
-### Ionization ENergy
+- increases as you go to the right in a period
+  - Nonmetals want to fill their outer level
+- increases as you go up a group
+  - Electrons are closer  to their nucleus, more control
+### Ionization Energy
+- energy required to remove an electron
+- Increases to the right in a period
+- Increases up a group
+  - In smaller atoms, electrons are closer to nucleus so it takes more energy to remove
 ### Ion size
+- relative size of an ion
+- cations usually lose levels (e-s) and become smaller than neutral atom
+- anions fill levels (gain   e-s) and become larger than neutral atom
+- Ion Size increases down a group 
