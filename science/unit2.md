@@ -72,8 +72,8 @@
     - gained an electron
     - negative charge
     - N + 3e-  🡺 N3-
-  - Element
-    - Neutral
+
+
 ![ion](https://www.qrg.northwestern.edu/projects/vss/docs/media/Propulsion/ions.gif)
 ### Average Atomic Mass
 - weighted average of all isotopes
@@ -85,5 +85,77 @@
 - (35x0.8)+(37x0.2)=35.40amu
 
 ## [Periodic Table](https://ptable.com/)
+### Earlier attempts at periodic table
+- Lavoisier (1789) - 4 element groups
+- J.W. Dobereiner (1829) - set of 3 elements with similar properties (Cl, Br, I) = triad
+- John Newlands (1837 – 1898) - Arranged elements by increasing atomic mass. 
+  - Created law of octaves
+- Lothar Meyer (1830 – 1895) - Demonstrated a connection between atomic mass and elemental properties
+### Mendeleev - 1869
+- Organized elements by increasing [atomic mass](https://github.com/prakash-shekhar/notes/blob/main/science/unit2.md#average-atomic-mass)
+- Elements with similar properties were grouped together in horizontal rows
+- Predicted properties of undiscovered elements.
+- Some discrepancies
+### Mosely - 1913
+- Organized elements by increasing [atomic mass](https://github.com/prakash-shekhar/notes/blob/main/science/unit2.md#average-atomic-mass)
+- Similar elements in vertical columns
+- Left spaces based in patterns for future discoveries
+- Resolved discrepancies in Mendeleev’s arrangement.
+### Parts of periodic table
+![parts of periodic table](https://sites.google.com/a/mesquiteisd.org/7th-grade-science-6th-6-weeks/_/rsrc/1468889930879/metals-non-metals-metalloids/tablenames.rev99.jpg)
+- Metals
+  - Ductile (can be stretched)
+  - Malleable (can be shaped & molded)
+  - Conductive
+  - Forms positive (+) ions
+- Non-Metals
+  - Brittle
+  - Low melting point
+  - Not malleable
+  - Forms negative (–) ions 
+- Metalloids
+  - Conductive
+  - Brittle
+  - Low melting point
+  - Forms (+) or (-) ions
+### Periodic Law
+- When arranged by increasing atomic number a pattern of properties repeats on a regular basis
+- These patterns are related to the number of valence electrons for an element.
+### Valence Electrons
+- Valence
+  - Electrons found on the outside energy level
+  - Electrons gained or lost during chemical bonding
+- Core Electrons
+  - All of the electrons of the element in the lower energy levels
+- Octet Rule
+  - Every element, is unstable unless it has a full shell
+  - They become more unstable as they approach the full shell or noble gas
+### Group properties
+- Group 1- Alkali Metals
+  - 1 electron in the outer level
+  - Very reactive metals
+- Group 2- Alkaline Earth Metals
+  - 2 electrons in the outer level
+  - Very reactive metals, but not as much as Alkali Metals
+  - Metals
+- Group 3-12- Transition Metals
+  - Usually 1-2 electrons in the outer level
+  - Good conductors of electric current
+  - Lanthanides and Actinides- Inner transition metals that appear in 2 rows at the bottom of the periodic table
+- Group 13- Boron Group = 3 v. e.
+- Group 14- Carbon Group = 4 v.e.
+- Group 15- Nitrogen Group = 5 v.e.
+- Group 16- Oxygen Group = 6 v.e.
+- Group 17- Halogens
+  - 7 electrons in the outer level
+  - Very reactive nonmetals
+  - Poor conductors of electric current
+- Group 18- Noble Gases
+  - 8 electrons in the outer level (except Helium, which has 2)
+  - Unreactive nonmetals
 
 ## Periodic Trends
+### Atomic size(radius)
+### Electronegativity
+### Ionization ENergy
+### Ion size
