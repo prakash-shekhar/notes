@@ -19,7 +19,7 @@
 ### Eugen Goldstein
 - Discovers anode rays which leads to discovery of proton
 ### JJ Thompson
-- discovered electron
+- discovered electron through cathode ray
 - came up with plum pudding model
 - Thomson thought that electrons were mixed throughout an atom, like plums in a pudding
 ### Ernest Rutherford
