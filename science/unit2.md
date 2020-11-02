@@ -34,3 +34,11 @@
 - Discovers a particle as big as proton but with neutral charge
 - Its the neutron
 - This helped to explain why atoms were heavier than the total mass of their protons and electrons
+
+## Atomic Structure
+
+## Isotopes and average mass
+
+## [Periodic Table](https://ptable.com/)
+
+## Periodic Trends
