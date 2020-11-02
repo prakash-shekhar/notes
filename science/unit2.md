@@ -22,11 +22,13 @@
 - discovered electron through cathode ray
 - came up with plum pudding model
 - Thomson thought that electrons were mixed throughout an atom, like plums in a pudding
+![plum pudding model](https://www.universetoday.com/wp-content/uploads/2009/08/plum-pudding-model.jpg)
 ### Ernest Rutherford
 - aimed a small beam of positively charged particles at a thin sheet of  gold foil in 1909
 - They were suppposed to go through in a straight line
 - Instead some were deflected
 - Rutherford proposed that in the center of the atom is a nucleus
+![rutherford experiment](https://chemistrygod.com/assets/media/image/gold-scattering-experiment.diagram.png)
 ### Bohr model
 - says electrons aren't located randomly
 - electrons could be found in specific electron shells(orbitals or energy levels)
@@ -49,10 +51,30 @@
 - mass # = # protons + # neutrons
 - Always whole number
 - not on the periodic table
+![atomic struture diagram](https://cdn.britannica.com/97/22297-050-0B262E16/Lawrencium.jpg)
 
-![diagram](https://cdn.britannica.com/97/22297-050-0B262E16/Lawrencium.jpg)
-
-## Isotopes and average mass
+## Isotopes, ions, and average mass
+### Isotopes
+- atoms of the same element
+- same protons, but different neutrons, so they have different masses but keep their identity
+![carbon isotope](https://image.shutterstock.com/image-vector/illustration-chemistry-carbon-isotopes-come-260nw-1181764648.jpg)
+### Ions
+- atoms or groups of atoms with a positive or negative charge
+- charge
+  - number of protons - number of electrons
+- when an atom or molecule gains or loses an electron it becomes an ion
+- Types of ions:
+  - Cations
+    - lost an electron
+    - positive charge
+    - Mg - 2e- 🡺 Mg2+
+  - Anions
+    - gained an electron
+    - negative charge
+    - N + 3e-  🡺 N3-
+  - Element
+    - Neutral
+### Atomic Mass
 
 ## [Periodic Table](https://ptable.com/)
 
