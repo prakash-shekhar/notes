@@ -1,3 +1,193 @@
+# Unit 1
+
+## Types of matter
+### Solids
+- particles vibrate in place but can't move arund
+- fixed shape
+- fixed volume
+### Liquids
+- particles move around but are still close together
+- variable shape
+- fixed volume
+### Gases
+- particles separate and move throughout the container
+- variable shape
+- variable volume
+![Phases](https://media1.thehungryjpeg.com/thumbs2/ori_3500486_4493933847782e39f25a4cdeac5a49126fd156fa_fundamentals-states-of-matter-with-molecules-vector-infographics.jpg)
+
+## Phase Changes
+### Energy
+Either Endothermic:
+- Melting: solid to liquid
+- Vaporization: liquid to gas or vapor
+- Sublimation: solid to gas
+Or Exothermic:
+- Freezing: liquid to solid
+- Condensation: gas to liquid
+- Deposition: gas to solid
+### Heat
+- The heat needed to melt a solid is called the heat of fusion
+- The heat released when solid forms from a liquid is called the heat of solidification
+- The heat needed to boil a liquid is called the heat of vaporization (cal/g or J/g )
+- The heat released when a liquid forms from a gas is called the heat of condensation
+### All phase changes
+- Melting (Solid → Liquid)
+- Freezing (Liquid → Solid)
+- Vaporization (Liquid → Gas)
+- Condensation (Gas → Liquid)
+- Deposition (Gas → Solid)
+- Sublimation (Solid → Gas)
+![Phase Diagram](https://astrocampschool.org/wp-content/uploads/2015/05/Phase-Diagram-Water.jpg)
+
+## Volume, Density
+### Volume
+- amount of space an object takes up
+- liter, mL, cm^3
+- Measure
+  - regular: h * w * l
+  - irregular: displacement in cylinder
+### Density
+- amount of matter per unit of volume
+- 
+- Measure
+  - Density = mass/volume
+
+## Conservation of Mass
+### Mass
+- Mass is a property of all matter.  It tells us how much matter an object contains
+- kg
+- **Not Weight**
+- Measure
+  - mass balance or triple beam balance
+### Matter
+- Matter is anything that has mass and takes up space
+- Measure by mass
+### Conservation of Mass
+- Matter cannot be created or destroyed in chemical or physical changes.
+- The amount you start with is the same that you end with
+- The matter can change, but still has to be there, even if you can’t see it
+- The amount of matter stays the same
+### Changes in Matter
+- Physical Changes
+  - Matter changes in shape or form, but not what it is.
+  - Heating Water
+  - Breaking glass
+  - Chopping wood
+- Chemical Changes:
+  - Changes the matter into a new substance
+  - Changes *chemical* orientation of substance
+  - Iron rusting
+  - cooking an egg
+  - buring wood
+## Measurement/Significant Figures
+### Precision vs. Accuracy
+- Precision is how close one is to the same answer (consistency)
+- Accuracy is how close one is to the expected result (correct answer)
+![precision v. accuracy](http://cdn.antarcticglaciers.org/wp-content/uploads/2013/11/precision_accuracy.png)
+### Metric conversions
+- Base Units:
+  - Mass =gram
+  - Volume = Liter
+  - Length = meter
+- Kilo to Base to Milli conversions
+  - Conversion from base units to milli-units:(*1000)
+  - Conversion from base units to kilo-units:(/1000)
+![metric conversion chart](https://jandwjordan.files.wordpress.com/2014/07/metric-conversion-chart.jpg)
+### Significant Figures
+*future prakash here: don't be like me, study this, it will be on the test*
+- All digits that are known to be accurate plus ONE digit that is estimated
+- Ensure that data collected in experiments are not manipulated or presented in a misleading manne
+### Significant Figure Rules/Examples
+***everything between | is significant***
+- All non zero digits are significant
+  - |24.7|
+  - 0|.743|
+  - |714|
+- Zeros BETWEEN nonzero digits are significant
+  - |7003|
+  - |40.79|
+  - |1.503|
+- Zeros in front of all nonzero digits are NOT significant
+  - 0.000|53|
+  - |100.005|
+- If there is a decimal point zeros at the end of a number to the right of the decimal point are significant
+  - 0.00|500|
+  - 0.0|3040|
+  - |4.500| x 10^12
+  - |100.000|
+- If there is no decimal point zeros at the end of the number are NOT significant
+  - |12|0000
+  - |120000.0|
+  - *super confusing*
+### Significant Figures in Calculations
+- Rounding
+  - find out how many significant figures
+  - round to that number
+- Add/Sub
+  - should be rounded to the same number of decimal places as the measurement with the least number of decimal places
+  - Calculation: 12.52+349.0+8.24
+  - Find least amount of decimal places: 2, 1, 2 => 1
+  - Calculate: 12.52+349.0+8.24=369.76
+  - Round: 369.8=3.698 x 10^2
+- Mult/Div
+  - round the answer to the same number of significant figures as the measurement with the least number of significant figures.
+  - Calculation: 7.55 x 0.34
+  - Find least amount of sigfig: |7.55|, 0.|34| => 2
+  - Calculate: 7.55 x 0.34= 2.567
+  - Round: 2.6
+
+## Classification
+![classification](https://fitz6.files.wordpress.com/2016/05/elements.png?w=640)
+### Elements
+- aka an atom
+- composed of identical atoms
+- examples: copper wire, aluminum foil, sodium
+### Compound
+- Composed of 2 or more elements in a fixed ratio
+- Properties differ from those of individual elements
+- Sodium(Na) + Chloride(Cl)=Table Salt(NaCl)
+- examples: table salt, water
+### Mixtures
+- composition of 2 or more pure substances
+#### Homogenous
+- Solution
+  - 1 phase, homo means the same
+  - even throughout mixture
+  - small particles
+  - particles dont settle cos they mix in
+  - examples: rubbing alcohol, salt/sugar water
+#### Heterogenous
+- Suspension
+  - 2 or more phases
+  - big particles
+  - particles settle
+  - examples: freshly squeezed lemonade, water and oil
+- Colloid
+  - 2 or more phases
+  - medium particles
+  - Tyndall Effect- the way light scatters in a colloid
+  - both liquid and solid
+  - dont fully settle
+  - examples: glue, jello, yogurt
+
+## Properties of Matter/Changes in matter
+### Phys/Chem
+- Physical Property
+  - Observed without changing the identity of substance
+  - Matter changes in shape or form, but not what it is.
+  - Example: mass, density, luster(shininess), viscosity(thickness), freezing point
+- Chemical Property
+  - Describes the ability of substance to undergo changes in identity
+  - Describes the ability of substance to undergo changes in identity
+  - Example: Combustability(Blows up), Corrosiveness, toxicity
+### Ext/Int
+- Extensive Property
+  - Depends on the amount of matter present
+  - Examples: volume, mass
+- Intensive Property
+  - Depends on the identity of the substance, not the amount
+  - Examples: density(cs it isnt how much its how condensed), conductivity, melting point
+
 # Unit 2
 
 ## History of atom
@@ -21,13 +211,17 @@
 ### JJ Thompson
 - discovered electron through cathode ray
 - came up with plum pudding model
-- Thomson thought that electrons were mixed throughout an atom, like plums in a pudding
+- Thomson thought that electrons were mixed throughout an atom, like plums in a puddin
+
+
 ![plum pudding model](https://www.universetoday.com/wp-content/uploads/2009/08/plum-pudding-model.jpg)
 ### Ernest Rutherford
 - aimed a small beam of positively charged particles at a thin sheet of  gold foil in 1909
 - They were suppposed to go through in a straight line
 - Instead some were deflected
 - Rutherford proposed that in the center of the atom is a nucleus
+
+
 ![rutherford experiment](https://chemistrygod.com/assets/media/image/gold-scattering-experiment.diagram.png)
 ### Bohr model
 - says electrons aren't located randomly
