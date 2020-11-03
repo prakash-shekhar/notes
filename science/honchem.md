@@ -13,7 +13,7 @@
 - particles separate and move throughout the container
 - variable shape
 - variable volume
-![Phases](https://media1.thehungryjpeg.com/thumbs2/ori_3500486_4493933847782e39f25a4cdeac5a49126fd156fa_fundamentals-states-of-matter-with-molecules-vector-infographics.jpg)
+<img src="https://media1.thehungryjpeg.com/thumbs2/ori_3500486_4493933847782e39f25a4cdeac5a49126fd156fa_fundamentals-states-of-matter-with-molecules-vector-infographics.jpg" width="300" />
 
 ## Phase Changes
 ### Energy
@@ -37,6 +37,8 @@ Or Exothermic:
 - Condensation (Gas → Liquid)
 - Deposition (Gas → Solid)
 - Sublimation (Solid → Gas)
+
+
 ![Phase Diagram](https://astrocampschool.org/wp-content/uploads/2015/05/Phase-Diagram-Water.jpg)
 
 ## Volume, Density
@@ -83,7 +85,8 @@ Or Exothermic:
 ### Precision vs. Accuracy
 - Precision is how close one is to the same answer (consistency)
 - Accuracy is how close one is to the expected result (correct answer)
-![precision v. accuracy](http://cdn.antarcticglaciers.org/wp-content/uploads/2013/11/precision_accuracy.png)
+<img src="http://cdn.antarcticglaciers.org/wp-content/uploads/2013/11/precision_accuracy.png" width="300" />
+
 ### Metric conversions
 - Base Units:
   - Mass =gram
