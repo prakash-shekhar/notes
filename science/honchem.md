@@ -105,7 +105,7 @@ Or Exothermic:
 - All non zero digits are significant
   - |24.7|
   - 0|.743|
-  - |714|
+  - |714|00
 - Zeros BETWEEN nonzero digits are significant
   - |7003|
   - |40.79|
