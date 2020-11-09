@@ -371,3 +371,27 @@ Or Exothermic:
 - cations usually lose levels (e-s) and become smaller than neutral atom
 - anions fill levels (gain   e-s) and become larger than neutral atom
 - Ion Size increases down a group 
+
+# Unit 3
+## Ions and Lewis Dot Structures
+### Valence Elcetrons(review)
+- Electrons in the highest enrgy level
+- Use group nuber to determine amount of valence electrons
+### Dot structures
+- Elemental Symbol is the nucleus
+- dots show the valence electrons
+- Doesn't matter where you put the dots
+- Can't be more than two dots on one side
+- Don't put a second dot until every side has one dot
+- Good practice is to go around the element putting a dot, and then the next time around putting a dot next to it
+### Cations, anions
+- Group 1, 2, 13
+  - lose electrons to form ions called cations that are like noble gases
+  - to name them add ion to end of the element name
+- Group 15, 16, 17
+  - gain electrons to form ions called anions that are like noble gases
+  - to name them add -ide to the end 
+  - "fluoride"
+### Polyatomic Ions
+- Groups of tightly bound atoms that behave as a single unit and have a positive or negative charge
+![polyatomic ions](https://lh6.googleusercontent.com/-PjYfUIXe5tQ/VIaKOHV5oHI/AAAAAAAACOM/-1VHBn8CPMI/w523-h443-no/L2%2Bform%2B6.jpg)
