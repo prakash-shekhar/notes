@@ -400,7 +400,6 @@ Or Exothermic:
 ### Covalent Bonding
 - an attraction between atoms due to the exchange of valence electrons
 - Chemical Bonds form for stability, because they can fill up their outer shell
-- The positive metal bonds with negative nonmetal
 ### Molecules
 - electrically neutral group of atoms joined together by covalent bonds. 
 - Contains only Non-Metals
@@ -414,7 +413,7 @@ Or Exothermic:
 - Single covalent bonds (share 1 pair of electrons)
 - easier to break
 - longer
-### Multiple Covalen Bonds
+### Multiple Covalent Bonds
 - Harder to break
 - shorter
 ### Molecular Compounds
