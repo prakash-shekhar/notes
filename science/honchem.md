@@ -395,3 +395,52 @@ Or Exothermic:
 ### Polyatomic Ions
 - Groups of tightly bound atoms that behave as a single unit and have a positive or negative charge
 ![polyatomic ions](https://lh6.googleusercontent.com/-PjYfUIXe5tQ/VIaKOHV5oHI/AAAAAAAACOM/-1VHBn8CPMI/w523-h443-no/L2%2Bform%2B6.jpg)
+## Covalent Bonds
+- held together by sharing electrons
+### Covalent Bonding
+- an attraction between atoms due to the exchange of valence electrons
+- Chemical Bonds form for stability, because they can fill up their outer shell
+- The positive metal bonds with negative nonmetal
+### Molecules
+- electrically neutral group of atoms joined together by covalent bonds. 
+- Contains only Non-Metals
+- Nonmetals attract electrons, so neither atom wants to lose electrons. 
+- This results in a “tug of war”, or sharing of electrons.
+- This is called covalent bond
+
+![covalent](7fXL.gif)
+### Single Covalent Bonds
+- Covalent bonds result in discrete molecules.
+- Single covalent bonds (share 1 pair of electrons)
+- easier to break
+- longer
+### Multiple Covalen Bonds
+- Harder to break
+- shorter
+### Molecular Compounds
+- are formed from two or more nonmetals (or metalloids).
+- have no charges!
+-  need prefixes
+### Prefixes
+1. Mono
+2. Di
+3. Tri
+4. Tetra
+5. Penta
+6. Hexa
+7. Hepta
+8. Octa
+9. Nona 
+10. Deca
+### Name Binary Molecule Compunds
+- First element in formula is named first.  If there is only 1 of this element, NEVER use the prefix “mono-.”  
+- If there are more than 1, ALWAYS use a prefix.
+- The second element in the formula is named like an anion, using the “-ide” ending.
+- Prefixes are used to indicate the number of atoms of each element in the compound.
+### Examples
+- CO = carbon monoxide
+- P2O5 = diphosphorous pentoxide
+- N3Cl8 = trinitrogen octachloride
+- P4F7 = tetraphosphorus heptafluoride
+- CH4 = methane
+- NH3 = ammonia
