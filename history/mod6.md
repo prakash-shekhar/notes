@@ -41,6 +41,9 @@
 - Mahan urged government officials to build up American naval power in order to compete with other powerful nations. 
 - As a result of the urging of Mahan and others, the United States built nine steel-hulled cruisers between 1883 and 1890. 
 - The construction of modern battleships such as the Maine and the Oregon transformed the country into the world’s third-largest naval power.
+### The Influence of Sea Power Upon History
+- The Influence of Sea Power Upon History, 1660–1783 (published in 1890)is a book by Alfred Mahan, where he calls for the United States to develop a modern fleet capable of protecting American business and shipping interests around the world.
+- He also urged the United States to establish naval bases in the Caribbean, to construct a canal across the Isthmus of Panama, and to acquire Hawaii and other Pacific islands.
 ### Thirst for New Markets
 - In the late 19th century, advances in technology enabled American farms and factories to produce far more than American citizens could consume. 
 - For example, plows, harrows, threshing machines, and reapers increased corn production by 264 percent and the wheat harvest by 252 percent. 
@@ -475,3 +478,59 @@ On the other hand, the American military government provided food and clothing f
 - 1. First, it expanded U.S. access to foreign markets in order to ensure the continued growth of the domestic economy. 
 - 2. Second, the United States built a modern navy to protect its interests abroad. 
 - 3. Third, the United States exercised its international police power to ensure dominance in Latin America.
+
+# Extra Stuff
+## Josiah Strong
+- Josiah Strong was a strong supporter of Social Darwinism and Imperialism
+- In his book Our Country, he talks about how Anglo-Saxons are a superior race who must "civilize" the "savage" races
+- He was also a WASP(White Anglo-Saxon Protestant)
+## Social Darwinism	
+- The belief in “survival of the fittest” in social environment, meaning that certain people become powerful in society because they are innately better.
+- This was used to justify alot of racism, imperialism, and bigotry in the nineteenth century.		
+## Our Country
+- Book published by Josiah Strong, where he talks about how Anglo-Saxons are a superior race who must "civilize" the "savage" races
+## George Goethals
+- George Goethals was a United States Army General and engineer who was a major influence in the construction of the panama canal.
+- The panama canal is considered one of the greatest engineering feats to this day.
+- He did such a good job, that in the first world war, he was recalled from retirement to help.
+## The Great White Fleet
+- The Great White Fleet was the name for the Navy battleships which completed a journey around the globe
+- This was ordered by Roosevelt, as part of his Speak Softly, and Carry a Big Stick ideology. 
+## William Gorgas
+- was a United States Army physician
+- He helped stop the spread of yellow fever and malaria during the construction of the panama canal and cuba
+## Foreign Policy
+- Foreign Policy is the way that a country deals with relations with other countries
+## Realism
+- Realism is a view of international politics that stresses its competitive and conflictual side.
+- This is the stance that the U.S. took in the 19th century
+## Idealism
+- Idealism stresses cooperation of international forces
+
+# Psychology Stuff
+## Cognitive Dissonance
+- When someone holds a set of beliefs or ideas and they are faced with a set of conflicting beliefs or ideas.
+## Filter Bubbles
+- When someone only sees information that they want to see because of a computer algorithm.
+- This is used by many social media sites.
+- This is a problem, because peopl don't really don't care to see what is outside of their bubble.
+## Confirmation Bias
+- Confirmation Bias is when people specifically look for arguments that will support their point
+## Dunning-Kruger Effect
+- The Dunning-Kruger effect is when people with low ability overestimate how much they know
+- For example, I think I know a lot about Imperialism, however in reality, I am going to fail my test on imperialism.
+
+# Various Territories
+## Guam
+- Guam was claimed by Spain in 1565 and became a U.S. territory in 1898 during the Spanish-American War.
+## Wake Island
+- Wake Island is an island in the Pacific
+## Philippines
+- After its defeat in the Spanish-American War of 1898, Spain ceded its longstanding colony of the Philippines to the United States in the Treaty of Paris.
+## Puerto Rico
+- during the Spanish–American War, the U.S. invaded Puerto Rico
+-  After the U.S. victory in the war, Spain ceded Puerto Rico
+## Pearl Harbor
+- Pearl Harbor was a part of Hawaii that the U.S. took over
+## Midway
+- Was annexed by the U.S. in 1867, and is an important naval base
