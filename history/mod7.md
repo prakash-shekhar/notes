@@ -241,3 +241,18 @@
 ## Wilson Presents His Plan
 ## Debate over the Treaty of Versailles 
 ## The Legacy of the War 
+
+# Extra stuff
+## Machine gun
+- 10 people could beat a troop of 500
+## Artillery
+- German had one that could hit 70 miles, reached to paris
+- attacking through No Man's Land
+## Tanks
+- thought was move through no mans land
+- but they were sitting ducks and very slow
+- not actually very useful
+## Wilfred Owen
+- British officer during the war
+- wrote the poem *Dulce et Decorum Est*
+- super powerful
