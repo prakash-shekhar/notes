@@ -443,3 +443,40 @@ Or Exothermic:
 - P4F7 = tetraphosphorus heptafluoride
 - CH4 = methane
 - NH3 = ammonia
+# Unit 4
+## Balancing Equations
+- Chemical reactions involve changes in the chemical composition of matter
+  - Creates new materials with new properties
+  - amount of matter does not change! 
+- Reactants = Atoms or compounds that are changed in a chemical reaction (LEFT SIDE) 
+- Products = Atoms or compounds that are generated as a result of a chemical reaction (RIGHT SIDE)
+- In order to balance chemical reactions make sure every element on each side is equal
+[![Foo](https://sciencenotes.org/wp-content/uploads/2020/04/balancing-equations-animated.gif)](https://www.webqc.org/balance.php)
+## Common chemical reactions
+### Synthesis Reaction
+- a chemical reaction in which two or more substances react to produce a single product.
+- A + B → AB
+### Combustion Reaction
+- a reaction in which a single compound is broken down into 2 or more products.
+- AB → A + B
+### Decomposition Reaction
+- a reaction between a hydrocarbon and oxygen to produce carbon dioxide, water vapor, and energy.
+- CxHy + O2 (g) → CO2 (g) + H2O (g)
+## Single Reactions
+- a reaction in which atoms of a single element replace another element’s atoms in a compound.
+- A + BC → AC + B
+- For metals, use the activity series.
+- X + YZ → YX + Z
+- The single metal reactant must be ABOVE the metallic ion in the compound on the activity series in order for the reaction to occur.
+- If not, “No Reaction (NR)” occurs. 
+- The halogen reactant must be ABOVE the halogen in the compound in Group 17 for the reaction to occur. If not, “No Reaction (NR)” occurs.
+## Double Reactions
+- Double replacement reactions involve the exchange of ions between two compounds.
+1. Write the skeleton equation using the correct formulas.
+2. Trade the cations to form 2 new compounds.
+3. Make sure the new formulas are correct!
+4. Balance the equation.
+## Relevant Tables
+![activity series](https://lh3.googleusercontent.com/proxy/rcUMPOreUBqrxE_158mhCQ2h3hYMoSc7ZWjnrnNZPddIoqYc_aj7BDm-V1Aw5oAlLFxWLp20ACzDlfZ8tY_gcF5JU2wm5R2RiTBGQ7vzsdtVCmEu)
+![predict type of reaction](https://www.chemistrylearner.com/wp-content/uploads/2020/08/Types-of-chemical-reactions.jpg)
+![useful symbols](https://chemistrybatz.weebly.com/uploads/1/5/8/6/15860620/editor/symbols.jpg?1533273357)
