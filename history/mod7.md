@@ -242,14 +242,32 @@ World War I was the bloodiest war in history up to that time. Deaths numbered ab
 
 # The War at Home
 ## Government Oversees the War Effort
+### COngress Gives Power to Wilson
+Because World War I was such an immense conflict, the entire economy had to be refocused on the war effort. The shift from producing consumer goods to producing war supplies was too complicated and important a job for private industry to handle on its own, so business and government collaborated in the effort. In the process, the power of government was greatly expanded. Congress gave President Wilson direct control over much of the economy. It gave him the power to fix prices and to regulate—even to nationalize—certain war-related industries. One of the first industries to be nationalized was shipping. The government took over commercial and private ships and converted them for transatlantic war use. The main regulatory body was the War Industries Board (WIB). It was established in 1917 and reorganized in 1918 under the leadership of Bernard M. Baruch (bә-rkʹ), a prosperous businessman. The board encouraged companies to use mass-production techniques to increase efficiency. It also urged them to eliminate waste by standardizing products— for instance, by making only 5 colors of typewriter ribbons instead of 150. The WIB set production quotas and allocated raw materials.
+### The Economy Grows
+### Other Agencies
 ## Selling the war
+### War Financing
+### Influencing Public Opinion
 ## Attacks on Civil Liberties Increase
+### Anti-Immigrant Hysteria
+### Espionage and Sedition Acts
 ## The War Encourages Social Change
+### The Great Migration
+### Women in the War
+### The Flu Epidemic
 
 # Wilson Fights for Peace
 ## Wilson Presents His Plan
+### Fourteen Points
+### The Paris Peace Conference
 ## Debate over the Treaty of Versailles 
-## The Legacy of the War 
+### Provisions of The Treaty
+### The Treaty's Weakness
+### Opposition to the Treaty
+### Wilson refuses to Compromise
+## The Legacy of the War
+When World War I ended, many Americans looked forward to a return of what Warren G. Harding called “normalcy.” However, both the United States and the rest of the world had been utterly transformed by the war. World War I had devastated many European economies. The war had also revealed the military and industrial potential of the United States. The combination of these factors meant that the United States emerged from the war as a new world power. The war had strengthened the power of government in the United States. It had also accelerated social change, especially for African Americans and women. In addition, the propaganda campaign had provoked powerful fears and antagonisms that were left unchanneled when the war finally came to an end. In Europe, the destruction and massive loss of life severely damaged social and political systems. In many countries, the war created political instability and violence that persisted for decades. During the war years, the first Communist state was established in Russia, while after the war, militant fascist organizations seized control in Italy, Spain, and Germany. Americans began to call World War I “the war to end all wars,” in the hope that humanity would never again fight such a war. Although the United States had returned mostly to a policy of isolationism, unresolved issues in Europe would eventually drag America into an even wider war. The Treaty of Versailles had settled nothing. The redrawn maps of Europe and European colonial possessions created a new set of problems. In addition, the reparations imposed on Germany had crippled its economy, and the war-guilt clause caused much anger and hostility there. In fact, some European nations longed to resume the fight, and the League of Nations did not have the power to stop them. The ominous shape of things to come emerged in the writings of an Austrian named Adolf Hitler, an angry veteran of World War I. Two decades after the end of the Great War, Adolf Hitler’s desire for vengeance would plunge the world into an even greater war, in which the United States would play a leading role.
 
 # Extra stuff
 ## Machine gun
