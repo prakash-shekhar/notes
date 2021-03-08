@@ -198,3 +198,14 @@ It means my struggle, it talks about his plans about overthrowing the treaty of 
 Every year a rally was held there, and there was hundreds of thousands of party members there. Reinforces Hitler's fake idea that Germany was being restored. THere were things called Nurmeberg Laws and Aryanization passed in 1935, it puts into law Jewish inclusion in Germany. 
 ## Kristallnacht
 Burned Jewish Synagogue, haoppened Novemeber 9th 1938, shows the violence behind the german society. Polish German Jew assassinates German Diplomat, Goebbels whips people into a frenzy, and Jewish places were burned and destroyed. German police and firefighters were told not to do anything. Several hundred Jews were killed during it and they were fined for the cleanup. 
+## Washington Naval Conference
+Internatioal agreement to remove background tensions that escalated the first world war. The ratio was 5(US):5(UK):3(France). Germany Italy and Japan didn't follow this rule. They limited the size(35000 tons) and firepower(16 in guns) of battleships. No country was supposed to increase their fortifications. People who had privileges with China respect their territorial and poliital integrity. 
+## Kellog-Briand Pact
+Starts with two countries, US and France, they are talking about outlawing war, by a year 30 years sign off on this. How do you enforce peace. What is war? It didn't ban defensive war. 
+## Nye Commission
+1934-36, after first world war there was alot of anti-war and isolationist sentiment. Pursuing the military industrial complex caused the american interference war. There was little evidence for this.
+## Neutrality Acts
+- 1935, Prohibits the export of arms and ammunitions from the US to countries in war. 
+- 1937, US ships shouldn't go into war zone
+- 1939, Pendulum swings back, countries can buy stuff but they have to pay in cash and have to come to america to pick it up
+- Roosevelt gave a fireside chat talking aboput your neghibours house on fire and a garden hose.
