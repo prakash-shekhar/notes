@@ -154,4 +154,47 @@ While some minorities struggled with tension and discrimination, the war produce
 ## The Poisonous Toadstool
 This was an anti-semitic book that was taught to little german children. One of the stories was when Inge's mother sends her to a Jewish doctor, despite Inge's protests of what she learned in the League of German Girls. She goes to the doctor and she sees that the doctor molested another child and she runs away. This is an incredibly racist and horrible thing to drill into young children's head.
 ## Conditions leading to Hitler's rise to power
-German was demilitarized, they went from the number one power in the world to Switzerland having a stronger military, there is resentment and anger towards America and other European forces. The treaty of Versailles caused hyper-inflation and blamed Germany for all of the problems of the war.
+- German was demilitarized, they went from the number one power in the world to Switzerland having a stronger military, there is resentment and anger towards America and other European forces. 
+- The treaty of Versailles caused hyper-inflation and blamed Germany for all of the problems of the war.
+- The Nazi party was invited into power by conservatives, who thought they could use Hitler to fight German communists, they make him chancellor.
+- Pastor Martin Niemoller was a german ww1 veteran who was a conservative frustated by treaty of versailles, initially supports hitler because nationalism then becomes a minister.
+## Traits of Fascism
+- Nationalism
+Goes beyond pride in country, there are going to be conflicts with other countries
+- Anti-Semitism
+- Hostility towards Communism
+- Negative looks at unions
+linked to socialists/communists
+- Central Allpowerful government
+power is not spread out it is concentrated
+- Oppression of opposition
+will not tolerate criticism, control the media
+- More government involvement
+- Race/Nation over the individual
+**Nazi Germany checks all of these boxes**
+## Munich Putsch
+Early, when Nazi party was relatively small, it was a coup against the government, they rised up and started in Munich and the plan was to march to the capital and violently overthrow the democratically elected government. Hitler was brought up on charges, he is defiant and he said that he would do it again. WHile in jail he writes Mein Kampf.
+## Mein Kampf
+It means my struggle, it talks about his plans about overthrowing the treaty of versailles to restoring Germany's greatness. Talks about Living Space, or Lebensraum.
+## Some important people
+- Herman Gorring
+  - nazi fighter pilot
+  - is a war hero
+  - head of german air force under hitler
+  - close confidant to hitler
+- Albert Speer
+  - called good german
+  - architect, works for hitler
+  - effective at his job
+  - regretful after war
+- Heinrich Himler
+  - Most feared people in Nazi germany
+  - Head of the SS
+  - loyal to Hitler
+- Joseph Goebbels
+  - Minister of propaganda
+  - Anti-semitism
+## Nuremberg
+Every year a rally was held there, and there was hundreds of thousands of party members there. Reinforces Hitler's fake idea that Germany was being restored. THere were things called Nurmeberg Laws and Aryanization passed in 1935, it puts into law Jewish inclusion in Germany. 
+## Kristallnacht
+Burned Jewish Synagogue, haoppened Novemeber 9th 1938, shows the violence behind the german society. Polish German Jew assassinates German Diplomat, Goebbels whips people into a frenzy, and Jewish places were burned and destroyed. German police and firefighters were told not to do anything. Several hundred Jews were killed during it and they were fined for the cleanup. 
