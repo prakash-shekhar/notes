@@ -209,3 +209,16 @@ Starts with two countries, US and France, they are talking about outlawing war, 
 - 1937, US ships shouldn't go into war zone
 - 1939, Pendulum swings back, countries can buy stuff but they have to pay in cash and have to come to america to pick it up
 - Roosevelt gave a fireside chat talking aboput your neghibours house on fire and a garden hose.
+- Americans knew that hitler was a athreat but they didn't want to actually help out
+## Luftwaffe
+1935, germany wasn't allowed an air force bcos of treaty of versailles but they still trained pilots using gliders and such. Concentrated on attacking, bombing, and the like.
+## Heinz Guderian
+Key figure in the innovation in the interwar period, restored mobility to the battlefield after ww1(trench warfare), they did surprise attacks and combined all elements of their military, Luftwaffe, tanks, etc.
+## Nazi-Soviet non-aggression pact
+August 23rd 1939, Stalin and Hitler sign an agreement to not attack each other, this is a surprise because these guys hate each other
+## Invasion of Poland
+Poland, 9/1/1939, Invasion of Polnd, the last straw on the camel's back, Engalnd decide this is it and declares world war 2 
+## Maginot line
+Freance after ww1, decided to make the defensive Maginot Line. Maginot Line works however Germany decides to seperate the British from the French.
+## Blitzkrieg
+Extreemely fast, in six weeks germany makes france surrender. 
