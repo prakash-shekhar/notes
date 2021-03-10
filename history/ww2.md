@@ -215,10 +215,16 @@ Starts with two countries, US and France, they are talking about outlawing war, 
 ## Heinz Guderian
 Key figure in the innovation in the interwar period, restored mobility to the battlefield after ww1(trench warfare), they did surprise attacks and combined all elements of their military, Luftwaffe, tanks, etc.
 ## Nazi-Soviet non-aggression pact
-August 23rd 1939, Stalin and Hitler sign an agreement to not attack each other, this is a surprise because these guys hate each other
+August 23rd 1939, Stalin and Germany's ambassador sign an agreement to not attack each other, or choose sides if they were in a conflict with one another. This is important because Germany was trying not to repeat what happened during World War I, where they had to fight a two front war, with the threat of russia gone, it increased Germany's chance of victory. 
 ## Invasion of Poland
 Poland, 9/1/1939, Invasion of Polnd, the last straw on the camel's back, Engalnd decide this is it and declares world war 2 
 ## Maginot line
 Freance after ww1, decided to make the defensive Maginot Line. Maginot Line works however Germany decides to seperate the British from the French.
 ## Blitzkrieg
-Extreemely fast, in six weeks germany makes france surrender. 
+Extreemely fast, in six weeks germany makes france surrender. Took over denmark in a day.
+## Winston Churchill
+replaces neville chamberlain, say "The battle of france is over...I expect that the Battle of Britain has just begun".
+## Battle of Britain
+Churchill inspired the british to not back down, Germany was hoping they would just give up, goes from 8/40 to 5/41. At first, they target aircraft factories, radar. Midway through, Hitler orders them to start aiming for civilians and it became a war of terror, at the end 43,000 civilians dead. 
+## German invasion of Soviet Union/Operation Barbarossa
+largest invasion in human history. Hitler gets frustrated with britain and decides to attack Soviet Union instead. Goes from the arctic to the black sea. 
