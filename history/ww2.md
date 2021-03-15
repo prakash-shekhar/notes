@@ -277,4 +277,10 @@ replaces neville chamberlain, say "The battle of france is over...I expect that 
 ## Battle of Britain
 Churchill inspired the british to not back down, Germany was hoping they would just give up, goes from 8/40 to 5/41. At first, they target aircraft factories, radar. Midway through, Hitler orders them to start aiming for civilians and it became a war of terror, at the end 43,000 civilians dead. 
 ## German invasion of Soviet Union/Operation Barbarossa
-largest invasion in human history. Hitler gets frustrated with britain and decides to attack Soviet Union instead. Goes from the arctic to the black sea. 
+June 1941, largest invasion in human history. Hitler gets frustrated with britain and decides to attack Soviet Union instead. Goes from the arctic to the black sea. 
+## Einsatzgruppen
+As soon as German Blitzkriegs the soviet Union, a short distance behind their military were Einsatzgruppen, or killing squads, part of secret police. They identify who are Jews in the towns and kill them.
+## Euthanasia
+Systematic killing of those with disabilities in Nazi Germany. 
+## Wannsee Conference
+Reinhard Heydrich, number 2 guy in the SS, a concert level musician and olympic level athlete but a crazy killer. Hitler and Heimlich give Heydrich the task of performing the Final Solution. At the Wannsee conference, they gather all these influential people together, and talk about what the final stage of the holocaust is, and the extermination of an entire list. This is how 
