@@ -277,10 +277,23 @@ replaces neville chamberlain, say "The battle of france is over...I expect that 
 ## Battle of Britain
 Churchill inspired the british to not back down, Germany was hoping they would just give up, goes from 8/40 to 5/41. At first, they target aircraft factories, radar. Midway through, Hitler orders them to start aiming for civilians and it became a war of terror, at the end 43,000 civilians dead. 
 ## German invasion of Soviet Union/Operation Barbarossa
-June 1941, largest invasion in human history. Hitler gets frustrated with britain and decides to attack Soviet Union instead. Goes from the arctic to the black sea. 
+June 1941, largest invasion in human history. Hitler gets frustrated with britain and decides to attack Soviet Union instead. Goes from the arctic to the black sea. Germany thought that if they destroyed the bulk of the red army, the soviet union would surrender. Germans wanted to take Kiev, Moscow, and Leningrad and was only able to take Kiev and surround Leningrad. The red army did not break, they suffered horrific losses but did not back down. Germany was relying on a fast win, like Blitzkrieg and was not prepared for a long fight. Blitzkrieg relied on mobility, and in Brbarossa they had to everrything manually. 1,000,000 German casualities. 
 ## Einsatzgruppen
 As soon as German Blitzkriegs the soviet Union, a short distance behind their military were Einsatzgruppen, or killing squads, part of secret police. They identify who are Jews in the towns and kill them.
 ## Euthanasia
 Systematic killing of those with disabilities in Nazi Germany. 
 ## Wannsee Conference
 Reinhard Heydrich, number 2 guy in the SS, a concert level musician and olympic level athlete but a crazy killer. Hitler and Heimlich give Heydrich the task of performing the Final Solution. At the Wannsee conference, they gather all these influential people together, and talk about what the final stage of the holocaust is, and the extermination of an entire list. This is how 
+### FDR/Fireside Chats
+During the war, FDR contiued to give speeches through fireside chats explaining concepts, he talked about four freedoms:
+- Freedom of Speech
+- Freedom of Religion
+- Freedom from want
+- Freedom from fear
+### Rosie the Riveter
+Norman Rockwell made Rosie the Riveter mascot, she ws standing on Mein Kampf.
+### Factors leading to pearl harbor
+- People were not supposed to touch china, Japan didn't care, so the US tried to reprimand them
+- Japan and USSR fought over Khalkin-Gol, but backed off cos they were scared, so they went south and seized French Indochina
+- US started freezing finances in Japan's bank and refused to sell oil
+- US wanted to send a message from San Francisco to Peral Harbor
