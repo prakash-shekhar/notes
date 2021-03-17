@@ -209,16 +209,13 @@ This was an anti-semitic book that was taught to little german children. One of 
 - The Nazi party was invited into power by conservatives, who thought they could use Hitler to fight German communists, they make him chancellor.
 - Pastor Martin Niemoller was a german ww1 veteran who was a conservative frustated by treaty of versailles, initially supports hitler because nationalism then becomes a minister.
 ## Traits of Fascism
-- Nationalism
-Goes beyond pride in country, there are going to be conflicts with other countries
+- Nationalism/Goes beyond pride in country, there are going to be conflicts with other countries
 - Anti-Semitism
 - Hostility towards Communism
 - Negative looks at unions
 linked to socialists/communists
-- Central Allpowerful government
-power is not spread out it is concentrated
-- Oppression of opposition
-will not tolerate criticism, control the media
+- Central Allpowerful government/power is not spread out it is concentrated
+- Oppression of opposition/will not tolerate criticism, control the media
 - More government involvement
 - Race/Nation over the individual
 **Nazi Germany checks all of these boxes**
@@ -326,3 +323,19 @@ Nazi resistance group of young people in University of Munich, they were execute
 When Germany conquerts France with Blitzkrieg in a matter of weeks, there are negotians done, where Germany takes the northern part of France including Paris, the french are given a small town called Vichy that they are allowed to operate out of.
 ## The Big Three
 Name for the big three allies, Britain, USSR, and the US.
+## Zoot Suit Riots
+Racial tensions in west coast and LA, Zoot Suit, are these bggy suits that were popular in Latin-American communities, is wasting clothing, there are american sailors who go into. 
+## Korematsu vs US
+Supreme court case, challenges Executive Order 9066, says that his civil liberties are being violated. Supreme court rules against him. After their war, they say my bad.
+## Hideki Tojo
+Was a general in Japab, eventually becomes fascist leader of Japan. Really shows how much of a miltarian state Japan had become.
+## Executive Order 8802
+Federal contract in US, bans discrimination when hiring from federal places.
+## Double V campaign
+Double V for victory, victory against axis forces, and victory at home against Jim Crow laws.
+## Good Neighbor Policy
+Roosevelt adopts a big stick diplomacy attitude towards South and Central America, and acts as a mediator, has much needed repair work between South America and the US.
+## Mussolini
+Fascist and authoritarian leader of Italy, enters Axis forces with Germany
+## War Plan Rainbow 5
+War Plan if there we were in WWII. Called for war with Germany and Japan, said that colonies were going to get sacrificed. 
