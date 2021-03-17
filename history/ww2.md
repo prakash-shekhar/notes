@@ -252,8 +252,8 @@ Burned Jewish Synagogue, haoppened Novemeber 9th 1938, shows the violence behind
 Internatioal agreement to remove background tensions that escalated the first world war. The ratio was 5(US):5(UK):3(France). Germany Italy and Japan didn't follow this rule. They limited the size(35000 tons) and firepower(16 in guns) of battleships. No country was supposed to increase their fortifications. People who had privileges with China respect their territorial and poliital integrity. 
 ## Kellog-Briand Pact
 Starts with two countries, US and France, they are talking about outlawing war, by a year 30 years sign off on this. How do you enforce peace. What is war? It didn't ban defensive war. 
-## Nye Commission
-1934-36, after first world war there was alot of anti-war and isolationist sentiment. Pursuing the military industrial complex caused the american interference war. There was little evidence for this.
+## Nye Committee
+1934-36, after first world war there was alot of anti-war and isolationist sentiment. Nye Committee was in congress, why did the US enter the first world war. Pursuing the military industrial complex caused the american interference war. There was little evidence for this.
 ## Neutrality Acts
 - 1935, Prohibits the export of arms and ammunitions from the US to countries in war. 
 - 1937, US ships shouldn't go into war zone
@@ -284,31 +284,45 @@ As soon as German Blitzkriegs the soviet Union, a short distance behind their mi
 Systematic killing of those with disabilities in Nazi Germany. 
 ## Wannsee Conference
 Reinhard Heydrich, number 2 guy in the SS, a concert level musician and olympic level athlete but a crazy killer. Hitler and Heimlich give Heydrich the task of performing the Final Solution. At the Wannsee conference, they gather all these influential people together, and talk about what the final stage of the holocaust is, and the extermination of an entire list. This is how 
-### FDR/Fireside Chats
+## FDR/Fireside Chats
 During the war, FDR contiued to give speeches through fireside chats explaining concepts, he talked about four freedoms:
 - Freedom of Speech
 - Freedom of Religion
 - Freedom from want
 - Freedom from fear
-### Rosie the Riveter
+## Rosie the Riveter
 Norman Rockwell made Rosie the Riveter mascot, she ws standing on Mein Kampf.
-### Factors leading to pearl harbor
+## Factors leading to pearl harbor
 - People were not supposed to touch china, Japan didn't care, so the US tried to reprimand them
 - Japan and USSR fought over Khalkin-Gol, but backed off cos they were scared, so they went south and seized French Indochina
 - US started freezing finances in Japan's bank and refused to sell oil
 - US wanted to send a message from San Francisco to Peral Harbor
-### Five examples of technology
+## Five examples of technology
 - blood transfusions
 - airplanes 
 - tanks
 - atomic bomb
-### Isoroku Yamamoto
+## Isoroku Yamamoto
 Japanese Naval leader. Jpaan sent out people to some of the leding kids in universities had them accumu,late knowledge and bring it back home. Yamamoto is one of these, he went to Harvard to study, he also studied the US and told Japan that they would lose against the US. He said that he would fight for the first 6-12 months against the US, but after that all bets were off. He was correct about it, Japan started losing after 6 1/2 months at Battle of Midway, he was assassinated by the US
-### After Pearl Harbor
+## After Pearl Harbor
 FDR declares war on Japan in front of congress, only person who disagrees is Jeanette Rankin, Germany declares war on the US bcos lend-lease.
-### Executive Order 9066
+## Executive Order 9066
 Places Japanese-Americans into internment camps
-### Henry Kaiser
+## Henry Kaiser
 Shipyard Owner, experimented in ways to motivate workers, free healthcare, affordable housing, increased training and safety. 
-### Bracero
+## Bracero
 Mexican workers come from Mexico and work on American farms, fills the gap for agricultral workers after a lot of agricultural workers moved to industry.
+## Totalianirism
+Centralized government in the modern era, where all of the power is concentrated in one place, like a dictatorship. Citizens and their rights are controlled by the state. Nazi Germany, Soviet Russia
+## Triumph of the will
+Film put out as propaganda piece as Hitler rises to power, powerful imagery for dark Nazi purposes.
+## SS
+SS is fanatically loyal to Hitler, they are also secret police and in charge of camps. 
+## White Rose
+Nazi resistance group of young people in University of Munich, they were executed.
+## Munich Pact
+1938, British and French prime ministers Neville Chamberlain signed the Munich Pact with Mussolinini and Hitler, which gave up Sudetenland in Czechoslovakia to Hitler, in turn for him agreeing to respect the rest of Czechoslovakia's territory. Hitler does not keep his promise, cos he's a dumb bitch.
+## Vichy France
+When Germany conquerts France with Blitzkrieg in a matter of weeks, there are negotians done, where Germany takes the northern part of France including Paris, the french are given a small town called Vichy that they are allowed to operate out of.
+## The Big Three
+Name for the big three allies, Britain, USSR, and the US.
