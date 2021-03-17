@@ -297,3 +297,18 @@ Norman Rockwell made Rosie the Riveter mascot, she ws standing on Mein Kampf.
 - Japan and USSR fought over Khalkin-Gol, but backed off cos they were scared, so they went south and seized French Indochina
 - US started freezing finances in Japan's bank and refused to sell oil
 - US wanted to send a message from San Francisco to Peral Harbor
+### Five examples of technology
+- blood transfusions
+- airplanes 
+- tanks
+- atomic bomb
+### Isoroku Yamamoto
+Japanese Naval leader. Jpaan sent out people to some of the leding kids in universities had them accumu,late knowledge and bring it back home. Yamamoto is one of these, he went to Harvard to study, he also studied the US and told Japan that they would lose against the US. He said that he would fight for the first 6-12 months against the US, but after that all bets were off. He was correct about it, Japan started losing after 6 1/2 months at Battle of Midway, he was assassinated by the US
+### After Pearl Harbor
+FDR declares war on Japan in front of congress, only person who disagrees is Jeanette Rankin, Germany declares war on the US bcos lend-lease.
+### Executive Order 9066
+Places Japanese-Americans into internment camps
+### Henry Kaiser
+Shipyard Owner, experimented in ways to motivate workers, free healthcare, affordable housing, increased training and safety. 
+### Bracero
+Mexican workers come from Mexico and work on American farms, fills the gap for agricultral workers after a lot of agricultural workers moved to industry.
