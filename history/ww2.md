@@ -334,7 +334,7 @@ Federal contract in US, bans discrimination when hiring from federal places.
 ## Double V campaign
 Double V for victory, victory against axis forces, and victory at home against Jim Crow laws.
 ## Good Neighbor Policy
-Roosevelt adopts a big stick diplomacy attitude towards South and Central America, and acts as a mediator, has much needed repair work between South America and the US.
+Monroe Doctrine said that we shouldn't interfere. Teddy Roosevelt adopts a big stick diplomacy attitude towards South and Central America, and acts as a mediator in the world. Dollar Diplomacy says that what is good for business is good for government. FDR comes in and provides much needed repair work between South America and the US, pulls troops out of a few countries.
 ## Mussolini
 Fascist and authoritarian leader of Italy, enters Axis forces with Germany
 ## War Plan Rainbow 5
