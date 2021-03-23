@@ -339,3 +339,8 @@ Monroe Doctrine said that we shouldn't interfere. Teddy Roosevelt adopts a big s
 Fascist and authoritarian leader of Italy, enters Axis forces with Germany
 ## War Plan Rainbow 5
 War Plan if there we were in WWII. Called for war with Germany and Japan, said that colonies were going to get sacrificed. 
+## Things w WW2
+1. Kristallnacht
+2. Battle of Britain
+3. Munich Putsch
+4. Isoroku Yamamoto
